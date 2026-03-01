@@ -1,8 +1,3 @@
-Here is a **new, professional, recruiter-level README** tailored specifically to your ERCOT project with V1 and V2, clean structure, and strong portfolio positioning.
-
-You can copy-paste this directly into your `README.md`.
-
----
 
 # ⚡ ERCOT Electricity Market Analysis
 
